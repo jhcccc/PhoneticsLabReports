@@ -1,2 +1,2 @@
 # PhoneticsLabReports
-My Lab Reports for LING330 Phonetics
+My Lab Reports for Phonetics course
